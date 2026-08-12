@@ -693,4 +693,4 @@ Hoàn thành kiểm tra cuối trong khoảng 16:50–17:00.
 - [x] Đã copy `template.py` thành `solution/solution.py`.
 - [x] Exercise 3.4 và 3.5 — đã làm cả hai bonus.
 - [x] Chạy lại `pytest tests/ -v` lần cuối trên máy nộp bài (bộ test chính thức, gồm cả test bonus cho `rerank_by_overlap`).
-- [X] Kiểm tra không commit `.env`, API key hoặc corpus giảng viên cung cấp.
+- [x] Kiểm tra không commit `.env`, API key hoặc corpus giảng viên cung cấp.
